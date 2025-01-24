@@ -2,18 +2,17 @@
 
 1. **Importar la función:**
 
-    Para utilizar la función `sum`, primero debes importarla en tu script Python:
+    Para utilizar la función `sum`, primero hay que importarla al script Python:
 
-    ```python
-    from sum import sum
-    ```
+    `from sum import sum`
 
 2. **Llamar a la función `sum`:**
 
     **Ejemplo:**
 
-    resultado = sum(3.0, 4.0)
-    print(f'El resultado de la suma es: {resultado}')
+   `resultado = sum(3.0, 4.0)`
+
+   `print(f'El resultado de la suma es: {resultado}')`
     
 
     **Salida esperada:**

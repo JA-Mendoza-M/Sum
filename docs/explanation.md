@@ -7,15 +7,14 @@ La función `sum` toma dos valores de entrada y los suma, devolviendo el resulta
 Suma dos números y devuelve su resultado.
 
 ### Parámetros:
-- `a` (float): El primer número a sumar.
-- `b` (float): El segundo número a sumar.
+- `a` : El primer número a sumar.
+- `b` : El segundo número a sumar.
 
 ### Retorna:
 - `float`: El resultado de sumar `a` y `b`.
 
 ### Ejemplo:
+ `print(sum(12.0, 6.0))` 
 
-```python
->>> sum(12.0, 6.0)
-18.0
+    18.0
 
