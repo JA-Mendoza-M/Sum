@@ -1,6 +1,6 @@
 # Explicación de la función `sum`
 
-La función `sum` está diseñada para devolver la suma de dos números flotantes. Toma dos valores de entrada y los suma, devolviendo el resultado como un número flotante. La función es simple pero esencial para realizar operaciones de suma en Python.
+La función `sum` toma dos valores de entrada y los suma, devolviendo el resultado como un número flotante.
 
 ## Función: `sum(a, b)`
 
@@ -16,6 +16,6 @@ Suma dos números y devuelve su resultado.
 ### Ejemplo:
 
 ```python
->>> sum(3.0, 4.0)
-7.0
+>>> sum(12.0, 6.0)
+18.0
 
